@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Allow me to introduce myself, my name is *[Nama Lengkap Kamu]* .
-I am a *[Profesi Kamu, misal: Android Developer / Web Developer]*
+Allow me to introduce myself, my name is *Imam Yusup Bachtiar* .
+I am a *Software Engineer*
 
 ## If you are interested in getting to know me, please follow my account yaa.
 
@@ -21,13 +21,13 @@ I am a *[Profesi Kamu, misal: Android Developer / Web Developer]*
 ### ✉️ Contact Me
 
 <p align="left">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:imyubawork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/username-kamu">
+  <a href="https://linkedin.com/in/imamyusupb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/username-kamu">
+  <a href="https://instagram.com/imamyuba">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
